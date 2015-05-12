@@ -1,3 +1,4 @@
+//Wibby Bernaldi_1431140056_MI-1D_30
 public class Robot {
     public int Sensor;
     public int Servo;
